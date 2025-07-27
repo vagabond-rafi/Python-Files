@@ -24,3 +24,5 @@ print(diction.keys())
 print(diction.values())
 diction.update({"Griffindor":"Harry potter"})
 diction.pop("Hufflepuff")
+
+print("Joy Bangla")
